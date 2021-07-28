@@ -1,6 +1,6 @@
 ---
 layout: page
-title: 
+title: Qui soc.
 ---
 
 <p class="message">
