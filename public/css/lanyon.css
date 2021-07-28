@@ -533,7 +533,7 @@ a.pagination-item:hover {
 }
 
 /* JMR */
-.theme-base-0gold .sidebar,
+.theme-base-gold .sidebar,
 .theme-base-0f .sidebar-toggle:active,
 .theme-base-0f #sidebar-checkbox:checked ~ .sidebar-toggle {
   background-color: #8f5536;
