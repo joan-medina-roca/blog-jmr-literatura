@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Poesia
+title: Articles
 ---
 
 <p class="message">
