@@ -1,5 +1,5 @@
 ---
-layout: lorem-ipsum
+layout: page
 title: lorem-ipsum
 ---
 ## Lorem ipsum
