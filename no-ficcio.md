@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Poesia
+title: No-ficció
 ---
 
 <p class="message">
