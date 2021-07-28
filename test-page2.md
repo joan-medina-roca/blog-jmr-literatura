@@ -1,6 +1,6 @@
 ---
 layout: page
-title: About
+title: Novel·la
 ---
 
 <p class="message">
