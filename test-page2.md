@@ -1,6 +1,6 @@
 ---
 layout: page
-title: lorem-ipsum
+title: test-page2
 ---
 ## Lorem ipsum
 
