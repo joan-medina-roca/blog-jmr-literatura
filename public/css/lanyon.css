@@ -103,6 +103,9 @@ h1, h2, h3, h4, h5, h6 {
   margin-top: 0;
   margin-bottom: 0;
   color: #505050;
+  text-align: center;
+  padding-bottom: 15px;
+  border-bottom: 1px solid #dedede;
 }
 .masthead-title a {
   color: #505050;
@@ -114,7 +117,7 @@ h1, h2, h3, h4, h5, h6 {
   letter-spacing: 0;
 }
 
-@media (max-width: 48em) {
+@media (max-width: 52em) {
   .masthead-title {
     text-align: center;
   }
