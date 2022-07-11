@@ -1,20 +1,16 @@
 title: Joan Medina Roca
 tagline: Escriptura creativa i ficció en Català
 description: >-
-  La literatura de Joan Medina Roca. Aquí pots trobar les meves novel·les,
-  poesia, i també obres de no-ficció.
-  <br>
-  <br>
-  T'agrada el que llegeixes?
-  <br>
-  Ajuda'm a mantenir la web, el servidor, i la meva literatura, amb un donatiu.
-url: ''
-baseurl: ''
+  Blog de [Joan Medina Roca]({{ qui-soc }}).
+  <br />
+  Escriptura creativa, històries curtes, novel·la i articles d'opinió.
+url: ""
+baseurl: ""
 paginate: 5
 permalink: pretty
 author:
   name: Mark Otto
-  url: 'https://twitter.com/mdo'
+  url: "https://twitter.com/mdo"
   email: markdotto@gmail.com
 plugins:
   - jekyll-paginate
