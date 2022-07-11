@@ -123,6 +123,16 @@ h1, h2, h3, h4, h5, h6 {
     border-bottom: none;
     display: flex;
     flex-direction: column;
+    padding-bottom: 0;
+  }
+}
+
+@media (max-width: 20em) {
+  .masthead-title small{
+    display: none;
+  }
+  .masthead-title {
+    text-align: right;
   }
 }
 
