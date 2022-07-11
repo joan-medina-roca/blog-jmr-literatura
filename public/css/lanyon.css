@@ -532,16 +532,16 @@ a.pagination-item:hover {
   color: #8f5536;
 }
 
-/* JMR */
-.theme-base-gold .sidebar,
-.theme-base-gold .sidebar-toggle:active,
-.theme-base-gold #sidebar-checkbox:checked ~ .sidebar-toggle {
-  background-color: gold;
+/* Black */
+.theme-base-black .sidebar,
+.theme-base-black .sidebar-toggle:active,
+.theme-base-black #sidebar-checkbox:checked ~ .sidebar-toggle {
+  background-color: black;
 }
-.theme-base-gold .container a,
-.theme-base-gold .sidebar-toggle,
-.theme-base-gold .related-posts li a:hover {
-  color: gold;
+.theme-base-black .container a,
+.theme-base-black .sidebar-toggle,
+.theme-base-black .related-posts li a:hover {
+  color: black;
 }
 
 
