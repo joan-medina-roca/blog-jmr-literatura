@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Articles
-permalink: /articles/
+title: Opinió
+permalink: /opinio/
 ---
 
 <p class="message">

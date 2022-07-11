@@ -1,7 +1,7 @@
 ---
 layout: page
-title: No-ficció
-permalink: /no-ficcio/
+title: Històries Curtes
+permalink: /histories-curtes/
 ---
 
 <p class="message">

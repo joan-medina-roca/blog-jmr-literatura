@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Novel·la
-permalink: /novela/
+permalink: /novella/
 ---
 
 <p class="message">
