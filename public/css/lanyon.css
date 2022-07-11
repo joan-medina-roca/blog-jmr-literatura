@@ -123,6 +123,24 @@ h1, h2, h3, h4, h5, h6 {
   }
 }
 
+/* NAV MENU */
+
+.nav-menu {
+  display: flex;
+  justify-content: space-between;
+  width: 100%;
+  font-size: 0.8rem;
+  margin-top: 5px;
+  margin-bottom: -10px;
+}
+
+@media (max-width: 48em) {
+  .nav-menu{
+    display: none;
+  }
+}
+
+
 
 /*
  * Sidebar
