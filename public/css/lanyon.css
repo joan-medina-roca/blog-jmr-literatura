@@ -221,6 +221,7 @@ p {
   font-weight: normal;
   font-size: 1rem;
   color: #fff;
+  text-decoration: none;
 }
 .sidebar-item {
   padding: 1rem;
