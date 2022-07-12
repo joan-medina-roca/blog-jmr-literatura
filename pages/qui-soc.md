@@ -2,6 +2,7 @@
 layout: page
 title: Qui soc
 permalink: /qui-soc/
+description: Qui soc? Joan Medina Roca. Dissenyador web, professor de balls de swing i escriptor.
 ---
 
 <p class="message">
