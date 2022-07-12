@@ -227,6 +227,10 @@ p {
   font-family: "Libre Caslon Text", Georgia, "Times New Roman", serif;
   font-size: .75rem;
 }
+.sidebar-item p {
+  font-family: "Libre Caslon Text", Georgia, "Times New Roman", serif;
+  font-size: .75rem;
+}
 .sidebar-item p:last-child {
   margin-bottom: 0;
 }
