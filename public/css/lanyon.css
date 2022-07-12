@@ -70,7 +70,7 @@ p {
   text-indent: 2rem;
 }
 
-@media (max-width: 52em){
+@media (max-width: 38em){
   p {
     text-align: justify;
     font-size: 1.4rem;
