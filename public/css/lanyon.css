@@ -217,11 +217,13 @@ p {
 
 /* Sidebar content */
 .sidebar a {
+  font-family: "Montserrat", Helvetica, Arial, sans-serif;
   font-weight: normal;
   color: #fff;
 }
 .sidebar-item {
   padding: 1rem;
+  font-family: "Libre Caslon Text", Georgia, "Times New Roman", serif;
 }
 .sidebar-item p:last-child {
   margin-bottom: 0;
