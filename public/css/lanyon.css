@@ -70,14 +70,14 @@ p {
   text-indent: 2rem;
 }
 
-/* @media (max-width: 52em){
+@media (max-width: 52em){
   p {
     text-align: justify;
-    font-size: 1.2rem;
-    line-height: 1.6rem;
+    font-size: 1.4rem;
+    line-height: 1.8rem;
     text-indent: 2rem;
   }
-} */
+}
 
 /*
  * Wrapper
