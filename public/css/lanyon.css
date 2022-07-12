@@ -176,6 +176,7 @@ h1, h2, h3, h4, h5, h6 {
  * Source: http://css-tricks.com/off-canvas-menu-with-css-target/#comment-207504
  */
 
+
 /* Style and "hide" the sidebar */
 .sidebar {
   position: fixed;
@@ -292,6 +293,14 @@ a.sidebar-nav-item:focus {
     display: none;
   }
 }
+
+/* HIDE Sidebar Toggle Menu over tablet */
+
+@media (max-width: 56em){
+  .sidebar-toggle {
+      display: none;
+  }
+  }
 
 /* Slide effect
  *
