@@ -7,7 +7,7 @@ description: >-
 url: "https://blog.joanmedinaroca.com"
 baseurl: ""
 paginate: 5
-permalink: pretty
+permalink: /:slug/
 author:
   name: Mark Otto
   url: "https://twitter.com/mdo"
