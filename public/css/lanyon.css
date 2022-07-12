@@ -66,17 +66,18 @@ h1, h2, h3, h4, h5, h6 {
 p {
   text-align: justify;
   font-size: 1.2rem;
-  line-height: 1.4rem;
+  line-height: 1.6rem;
   text-indent: 2rem;
 }
 
-@media (max-width:52rem){
+/* @media (max-width: 52em){
   p {
-    font-size: 1.4rem;
-    line-height: 1.5rem;
+    text-align: justify;
+    font-size: 1.2rem;
+    line-height: 1.6rem;
+    text-indent: 2rem;
   }
-}
-
+} */
 
 /*
  * Wrapper
