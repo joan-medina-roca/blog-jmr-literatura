@@ -28,6 +28,10 @@
  */
 
 
+/* Font Imports */
+
+@import url('https://fonts.googleapis.com/css2?family=Amatic+SC&family=Libre+Caslon+Text&display=swap');
+
 /*
  * Global resets
  *
@@ -41,7 +45,7 @@ body {
 }
 
 html {
-  font-family: "Caslon", Georgia, "Times New Roman", serif;
+  font-family: "Libre Caslon Text", Georgia, "Times New Roman", serif;
 }
 
 h1, h2, h3, h4, h5, h6 {
