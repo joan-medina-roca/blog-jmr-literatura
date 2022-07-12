@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Escriptura Creativa
-permalink: /escriptura-creativa/
+slug: escriptura-creativa
 ---
 
 <p class="message">
