@@ -115,6 +115,7 @@ p {
 }
 .masthead-title a {
   color: #505050;
+  text-decoration: none;
 }
 .masthead-title small {
   font-size: 75%;
@@ -155,8 +156,13 @@ p {
   justify-content: space-between;
   width: 100%;
   font-size: 0.8rem;
+  font-weight: 400;
   margin-top: 5px;
   margin-bottom: -10px;
+}
+
+.nav-menu a {
+  text-decoration: none;
 }
 
 @media (max-width: 56em) {
