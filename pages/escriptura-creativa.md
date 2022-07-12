@@ -1,7 +1,8 @@
 ---
 layout: page
 title: Escriptura Creativa
-slug: escriptura-creativa
+permalink: /escriptura-creativa/
+description: Escriptura Creativa · Joan Medina Roca
 ---
 
 <p class="message">

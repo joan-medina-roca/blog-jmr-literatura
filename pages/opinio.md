@@ -2,6 +2,7 @@
 layout: page
 title: Opinió
 permalink: /opinio/
+description: Articles d'opinió.
 ---
 
 <p class="message">

@@ -2,6 +2,7 @@
 layout: page
 title: Novel·la
 permalink: /novella/
+description: Novel·la · Joan Medina Roca
 ---
 
 <p class="message">

@@ -2,6 +2,7 @@
 layout: page
 title: Històries Curtes
 permalink: /histories-curtes/
+description: Històries Curtes · Joan Medina Roca
 ---
 
 <p class="message">

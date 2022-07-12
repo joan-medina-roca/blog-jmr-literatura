@@ -2,6 +2,7 @@
 layout: post
 title: Inauguració del Blog
 slug: inauguracio-del-blog
+description: Inauguració del blog de Joan Medina Roca.
 ---
 
 Fa temps que volia iniciar un Blog que reunís les meves inquietuds per l'escriptura creativa i la literatura. El meu nom és Joan Medina Roca, soc [dissenyador web](https://joanmedinaroca.com){:target="\_blank"}{:rel="noopener noreferrer"}, [professor de balls de swing](https://lamardeswing.com){:target="\_blank"}{:rel="noopener noreferrer"}, i escriptor.
